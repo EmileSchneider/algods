@@ -1,0 +1,17 @@
+* ALGO(rithms)D(ata)S(tructures)
+
+My codebase going through exercises on leetcode to learn algorithms and datastructures better.
+Everything will be written in C because it just makes more sense.
+
+
+** Topics
+*** Arrays
+- [ ] static arrays
+- [ ] dynamic arrays
+- [ ] stacks
+    
+*** Linked Lists
+- [ ] Single Linked Lists
+- [ ] Double Linked Lists
+- [ ] Queues 
+
