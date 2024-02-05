@@ -31,7 +31,7 @@ int calPoints(char** operations, int operationsSize) {
       stack[stackPointer] = atoi(op);
       stackPointer++;
     } else if (*op == '-') {
-      stack[stackPointer] = op[1] * -1;
+      stack[stackPointer] = atoi(&op[1]) * -1;
       stackPointer++;
     }
     else if (*op == '+') {
